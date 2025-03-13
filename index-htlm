@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Resume</title>
+    </head>
+    <body>
+        <h1>Chioma Linda Nwokolo</h1>
+        <img src="./image.jpg" height="200" alt="chioma linda Nwokolo preview"/>
+        <h2>Professional Summary</h2>
+        <p>Compassionate Registered Nurse and Physiologist with experience offering comprehensive patient care.<br/> Work well with diverse patient populations and fosters trusting relationship to improve outcomes.<br/> Efficiently Coordinate with healthcare professionals to advance patient care.</p>
+        <hr/>
+        <h2>Education</h2>
+        <ul>
+            <li>vicent pol university<br/>Bachelor's degree, Nursing, 02/2025</li>
+            <li>University of Benin<br/>Bachelor's degree, Physiology, 12/2019</li>
+            <hr/>          
+        </ul>
+        <h2>Work History</h2>
+        <uL>
+            <li><h3>Clinical Intern<br/></br.>Various Hospital</h3>Poland, 08/2022 to 01/2025
+           <ul><br/>
+            <li>Delivered patient care in medical-surgical units, pediatrics, anesthesiology, urology, palliative, neurology, primary healthcare, gynecology, internal medicine, and geriatrics during clinical rotations</li>
+            <li>Developed advanced clinical skills through close observation of Nursing professionals</li>
+            <li>Performed vital sing monitoring and reported significant changes to supervising nurses</li>
+            <li>Participated in wound care, medication administration, and patient education</li>
+            <li>Performed venepunctures under supervision to collect blood samples for diagnostic purposes, ensuring patient comfort and accurate sample collection</li>
+            <li>Delivered collected samples to the laboratory for analysis, maintaining proper documentation and adhering to medical protocols</li>
+            <li>Assisted patients with feeding and personal hygiene tasks, including cleaning, wiping, and ensuring patient comfort during care activities</li>
+            <li>Actively Participated in developing and implementing patient care plans</li>
+
+           </ul>
+            </li>
+            <li><h3>Clinical Physiologist Intern<br/>NYSC Nigeria Navy Reference Hospital</h3>Nigeria, 12/2020 to 11/2021</li>
+            <ul><br/>
+                <li>Company Overview: Clinical Intern at Nigeria Navy Imaging Centre </li>
+                <li>Performed ECG examinations for both officers and patients, ensuring accuracy and patient comfort during procedures</li>
+                <li>Assisted radiologists in various diagnostic procedures, including:
+                    <ul>
+                        <li>Hysterosalpingography(HSG)</li>
+                        <li>Barium Enema</li>
+                        <li>Other advanced imaging techniques</li>
+                        <li>Supported radiologists in reporting radiological results by providing assistance during image analysis and documentation</li>
+                    </ul>
+                </li>
+                <li>Coordinated patient care by:</li>
+                <ul>
+                    <li>Welcoming and preparing patients for radiological and imaging procedures</li>
+                    <li>providing clear instructions and assisting with dressing before and after tests</li>
+                    <li>maintained accurate records of procedures, ensuring compliance with safety and privacy protocols</li>
+                    <li>clinical intern at Nigeria Navy Imanging Centre</li>
+                    <hr/>
+                </ul>
+            </ul>
+        </uL>
+        <h2>skills</h2>
+        <ul>
+            <li>Vital signs assessment</li>
+            <li>Electrocardiogram (ECG)</li>
+            <li>Patient Care Coordination and Education</li>
+            <li>Diagnostic Image Assistance and Reporting Support</li>
+            <li>Multidisciplinary Team Collaboration</li>
+            <li>Basic Life Support (BLS) and CPR Certified</li>
+            <li>Patient Care</li>
+            <li>Patient Safety and Infection Control</li>
+            <hr/>
+
+            
+        </ul>
+        <h2>Certification</h2>
+        <ul>
+            <li>Basic Life Support fLOrence Academy,08/02/2025</li>
+            <li>English Proficiency Certification, IELTS, British council,26/10/2024</li>
+            <li>Introduction to Integrative, coursera, 01/12/2021</li>
+            <hr/>
+        </ul>
+        <h2>Other</h2>
+        <ul>
+            <li><a href="./contact.html">Contact Me</a></li>
+            <li><a href="./about.html">About Me</a></li>
+        </ul>
+        <p>@Chioma Linda Nwokolo. All Rights Reserved.</p>
+        
+       
+        
+    </body>
+
+</html>
